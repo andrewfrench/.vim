@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim'
+let g:netrw_dirhist_2='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg'
+let g:netrw_dirhist_3='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg/server'
+let g:netrw_dirhist_4='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg/server/dependency'
+let g:netrw_dirhist_5='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg/server'
+let g:netrw_dirhist_6='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim'
+let g:netrw_dirhist_7='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg'
+let g:netrw_dirhist_8='/Users/afrenc505/go/src/github.comcast.com/viper-ee/taklishim/pkg/server'
